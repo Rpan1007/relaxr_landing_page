@@ -16,12 +16,12 @@ body {
 }
 
 div#wrapper {
-	width: 100%;
+	width: 70%;
 	margin: 0px auto;
 }
 
 div.header {
-	height:550px;
+	height:300px;
 	background: url(../images/header_bg.jpg) center center no-repeat;
 	background-size: cover;
 	padding: 10px 50px;
@@ -61,8 +61,8 @@ div.header p.piece {
 
 div.benefits {
 	background-color: #f0efef;
-	padding: 30px;
-	text-align: center;
+	padding: 50px;
+
 }
 h2 {
 	color: #033048;
@@ -98,6 +98,7 @@ div.testi p.testimonial {
 	font-weight: Light;
 	font-style: Italic;
 	padding: 30px 30px;
+	Margin-top:20px;
 }
 
 div.testi span.author { 
@@ -116,7 +117,7 @@ div.yellowbox span.bluebox {
 	color: white;
 	font-weight: Extra bold;
 	font-size:24px;
-	padding: 5px 5px;
+	padding: 5px 50px;
 	border-radius: 5px;
 	background-size: contain;
 	background-color: #033048;
@@ -144,6 +145,7 @@ div.blackbackground span.footer {
 .social {
 	/*float:left;*/
 	margin: 0 auto;
+	margin-top: 1rem;
 }
 
 .space-right {
